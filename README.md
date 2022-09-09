@@ -14,7 +14,7 @@ We will meet as a Cohort via Google Meet five times over two months for 1.5 hour
 - **Times: 11:00am - 12:30pm ET**
 - **Location: Remotely, via Zoom**
 
-Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/u/1/folders/1TzOVeUSNzoS_fD1IBimm5gFtz2WP4etS); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
+Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1bR2DVhaEJ89UPwIB_3hYbVjvZ7W6mvVU); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
 
 Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 ----| ------------------|----------------------|--------------------------------
@@ -24,8 +24,8 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 11/18 | 4. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Pathways preparation
 12/02 | 5. Pathways share |  | 
 
-**Cohort Call Digests**
-Link to Google Doc to come.
+**Cohort Call Digests** are posted as issues in this repo.
+
 
 ## Coworking times (optional)
 
