@@ -1,14 +1,14 @@
 <a align="left" href="https://github.com/Openscapes/2022-noaa-nwfsc-summer/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
-# 2022 NOAA NWFSC Openscapes Champions Cohort (Summer)
+# 2022 NOAA NWFSC Openscapes Champions Cohort (Fall)
 
-Welcome to the 2022 NOAA NWFSC Summer Openscapes Champions Cohort! This is a Cohort for the National Oceanic and Atmospheric Administration's Northwest Fisheries Science Center. Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+Welcome to the 2022 NOAA NWFSC Fall Openscapes Champions Cohort! This is a Cohort for the National Oceanic and Atmospheric Administration's Northwest Fisheries Science Center. Learn more about Openscapes and NOAA Fisheries: <https://openscapes.org>, <https://nmfs-openscapes.github.io>
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Google Meet five times over two months for 1.5 hours on five Thursdays starting October 7, 2022:
+We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Thursdays starting October 7, 2022:
 
 - **Dates: October 7, 21, November 4, 18, December 2** 
 - **Times: 11:00am - 12:30pm ET**
@@ -49,7 +49,7 @@ Add:
 
 **Stefanie Butland** (@stefaniebutland), Openscapes
 
-**Eli Holmes** (@eeholmes), NOAA-NWFSC
+**Eli Holmes** (@eeholmes), NOAA NWFSC
 
 
 ## More about Openscapes and the Champions program:
