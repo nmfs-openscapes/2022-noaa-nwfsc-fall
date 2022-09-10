@@ -8,10 +8,10 @@ Welcome to the 2022 NOAA NWFSC Fall Openscapes Champions Cohort! This is a Cohor
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Thursdays starting October 7, 2022:
+We will meet as a Cohort via Zoom five times over two months for 1.5 hours on five Fridays starting October 7, 2022:
 
 - **Dates: October 7, 21, November 4, 18, December 2** 
-- **Times: 11:00am - 12:30pm ET**
+- **Times: 11:00am - 12:30pm PT**
 - **Location: Remotely, via Zoom**
 
 Agendas are accessible to Cohort participants in our [Cohort Google Drive Folder](https://drive.google.com/drive/folders/1bR2DVhaEJ89UPwIB_3hYbVjvZ7W6mvVU); they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas. 
