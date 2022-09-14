@@ -1,4 +1,4 @@
-<a align="left" href="https://github.com/Openscapes/2022-noaa-nwfsc-fall/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
+<a align="left" href="https://github.com/nmfs-openscapes/2022-noaa-nwfsc-fall/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
 # 2022 NOAA NWFSC Openscapes Champions Cohort (Fall)
 
@@ -29,7 +29,9 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 
 ## Coworking times (optional)
 
-Julie, Stefanie, Eli - TBD
+Within-cohort coworking with Julie, Stefanie and Eli - Wednesdays 12:00 -1:00 PT every second week: Oct 12, 26, Nov 9, 23
+
+Cross-cohort themed coworking with Julie, Stefanie and guests - Tuesdays 1:00 - 2:30 PT every second week: Oct 11, 25, Nov8
 
 
 ## Participating teams
