@@ -31,7 +31,7 @@ Date | Cohort Call Topics          | Series Chapters |      Seaside Chat Topics
 
 Within-cohort coworking with Julie, Stefanie and Eli - Wednesdays 12:00 -1:00 PT every second week: Oct 12, 26, Nov 9, 23
 
-Cross-cohort themed coworking with Julie, Stefanie and guests - Tuesdays 1:00 - 2:30 PT every second week: Oct 11, 25, Nov8
+Cross-cohort themed coworking with Julie, Stefanie and guests - Tuesdays 1:00 - 2:30 PT every second week: Oct 11, 25, Nov 8
 
 
 ## Participating teams
