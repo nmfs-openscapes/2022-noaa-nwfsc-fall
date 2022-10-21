@@ -46,3 +46,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ### Github Resources
 
 This is a pretty good github [cheatsheet](https://evanwill.github.io/go-go-ghpages-b/content/1-intro.html) but Github's [Hello World](https://docs.github.com/en/get-started/quickstart/hello-world) is good for learning your way around github.
+
+Check out the resources therein, but here is a list of some that I found useful:
+
+1. [Markdown cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [Git syntax cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
