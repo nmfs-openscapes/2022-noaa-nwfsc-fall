@@ -18,11 +18,14 @@ Now let's practice Markdown and commit another edit to this file.
 
 This file is written in Markdown, which formats text on the web. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can **make words** **bold** or *italic*.
 
 ### We can make headers.
-
-We can make lists – *note that lists need a carriage return before list items!*
+1. oh no
+2. does this work
+3. trying!
+4. 
+We *can* make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
 2. tamales
