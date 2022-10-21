@@ -20,6 +20,8 @@ This file is written in Markdown, which formats text on the web. For example, wi
 
 We can make words **bold** or *italic*.
 
+*yay! I have access!*
+
 ### We can make headers.
 
 We can make lists – *note that lists need a carriage return before list items!*
