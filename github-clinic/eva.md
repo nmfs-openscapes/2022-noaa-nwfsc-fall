@@ -21,6 +21,10 @@ This file is written in Markdown, which formats text on the web. For example, wi
 We can make words **bold** or *italic*.
 
 ### We can make headers.
+#lists here - trying
+1. test1
+2. test2
+3. test3
 
 We can make lists – *note that lists need a carriage return before list items!*
 
@@ -29,6 +33,7 @@ We can make lists – *note that lists need a carriage return before list items!
 3. cakes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
+
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
@@ -40,5 +45,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](../horst-champions-trailhead.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+
+- I didn't know the '..' quickhand. This is cool.
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
