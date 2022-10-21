@@ -28,6 +28,10 @@ We can make lists – *note that lists need a carriage return before list items!
 2. tamales
 3. cakes
 
+### We can make a task list.
+- [ ] Create a task list
+- [ ] Check off as they are complete
+
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
