@@ -42,3 +42,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+### Github Resources
+
+This is a pretty good github [cheatsheet] (https://evanwill.github.io/go-go-ghpages-b/content/1-intro.html) but Github's [Hello World] (https://docs.github.com/en/get-started/quickstart/hello-world) is good for learning your way around github.
