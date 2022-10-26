@@ -41,4 +41,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+Ok, I'll insert an image of a figure from some recent work **here**:
+
+![OR Albacore 4_panel_normalized_effort_maps 2005_2021_10arckm](https://user-images.githubusercontent.com/25039491/197904004-7de2cbd4-05df-4ccf-8072-d5da2ca2c52e.png)
+
+
